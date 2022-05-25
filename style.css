@@ -1,0 +1,5 @@
+.grid {
+  border: 1px solid black;
+  max-width: 60%;
+  aspect-ratio: 1 / 1;
+}
