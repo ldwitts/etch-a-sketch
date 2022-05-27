@@ -1,5 +1,12 @@
 .grid {
   border: 1px solid black;
-  max-width: 60%;
-  aspect-ratio: 1 / 1;
+  display: grid;
+  width: 500px;
+  height: 500px;
+}
+
+.grid-item {
+  width: fit-content;
+  aspect-ratio: 1/1;
+  border: 1px solid black;
 }
